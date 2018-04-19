@@ -1,0 +1,31 @@
+{
+  "name": "granddecor-kem-reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcommandAdded by me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzrt/granddecor.git"
+  },
+  "keywords": [
+    "dress",
+    "rent",
+    "dress",
+    "shop",
+    "kemerovo"
+  ],
+  "author": "Evgeniy Tortumashev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzrt/granddecor/issues"
+  },
+  "homepage": "https://github.com/mzrt/granddecor#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0"
+  }
+}
